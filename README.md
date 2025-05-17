@@ -10,7 +10,7 @@ I'm a **Game Developer** 🎮 based in Modena, Italy.<br>I obtained a Master Deg
 ## 🌐 Socials:
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/#3125)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/matteo-atramento-85a553271)
-<a href="mailto:matteo.atramento@gmail.com">![Mail](https://skillicons.dev/icons?i=gmail)</a>
+<a href="mailto:matteo.atramento@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></img></a>
 
 ## 💻 Languages and Tools:
 ![My Skills](https://skillicons.dev/icons?i=cpp,unreal,rider)
