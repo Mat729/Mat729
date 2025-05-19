@@ -5,6 +5,8 @@ I'm a **Game Developer** 🎮 based in Modena, Italy.<br>I completed a Game Prog
 ![Pacman](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="👾" width="30" height="30" /> Projects:
+[You see more about my projects here](https://github.com/Mat729?tab=repositories), or look at the videos down here! ↓ <br>
+###
 [![LostColors](https://ytcards.demolab.com/?id=Rg-1IgAz0nE&title=Lost+Colors&background_color=%23000000&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://youtu.be/Rg-1IgAz0nE)
 [![AirHockey](https://ytcards.demolab.com/?id=lvkRvBwtfWY&title=AirHockey&background_color=%23000000&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://youtu.be/lvkRvBwtfWY) 
 
